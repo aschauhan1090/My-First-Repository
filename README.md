@@ -1,3 +1,4 @@
 # Full Stack Web Development
-# My First Repository!!!
-# Author - Aditya Singh Chauhan
+My First Repository!!!
+<br>
+Author - Aditya Singh Chauhan
